@@ -1,0 +1,4 @@
+git init (To initialize empty files)
+git clone ( clone data from git hub repo to local machine )
+git push ( push data from local to git hub repo)
+git pull (pull data from git hub repo to local machine ) pull command used when our git repo changes are not present in loacl machine.
